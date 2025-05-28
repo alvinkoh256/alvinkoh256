@@ -12,7 +12,7 @@
 I'm a second-year Information Systems student at SMU, passionate about cybersecurity, cloud tools, and building meaningful digital products.
 
 - 🛠️ I love building new applications.
-- 🌩️ Currently pursuing AWS Cloud Practitioner & Network+, and building a new application called ~~████████~~ 🤫
+- 🌩️ Currently pursuing AWS Cloud Practitioner & CCNA, and building a new application called ~~████████~~ 🤫
 - 🎯 Always exploring ways to solve real problems with technology.
 
 ---
