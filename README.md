@@ -31,6 +31,7 @@ FoodBridge is a distributed platform that connects donors, volunteers, and food 
 - 🌐 Set up the Kong API Gateway for unified routing across microservices.
 
 **Tech Stack:** Flask · gRPC · RabbitMQ · Redis · Docker · Kong API Gateway · Google Maps API
+<br>
 **Link to repo:** https://github.com/alvinkoh256/FoodBridge
 
 ---
