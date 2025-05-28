@@ -19,7 +19,7 @@ I'm a second-year Information Systems student at SMU, passionate about cybersecu
 
 ### 💼 Projects
 
-#### 🥫 ESD FoodBridge  
+#### 🥫 FoodBridge  
 *Combatting food insecurity with microservices*
 
 FoodBridge is a distributed platform that connects donors, volunteers, and food banks to coordinate real-time food donation efforts across Singapore.
@@ -34,7 +34,7 @@ FoodBridge is a distributed platform that connects donors, volunteers, and food 
 
 ---
 
-#### 🏃 WAD2 MapPalette  
+#### 🏃 MapPalette  
 *Make running less boring*
 
 MapPalette is a social platform where users create, draw, and share artistic running routes — turning workouts into creative expression.
