@@ -19,7 +19,7 @@ I'm a second-year Information Systems student at SMU, passionate about cybersecu
 
 ### 💼 Projects
 
-#### 🥫 FoodBridge  
+#### 🥫 [FoodBridge](https://github.com/alvinkoh256/FoodBridge)
 *Combatting food insecurity with microservices*
 
 FoodBridge is a distributed platform that connects donors, volunteers, and food banks to coordinate real-time food donation efforts across Singapore.
