@@ -71,6 +71,14 @@ A stealth personal project in progress — stay tuned 👀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
 </p>
 
+
+---
+
+### 📜 Certifications
+- [Google Analytics Certification](https://coursera.org/share/33446f3b1187eecbcd93d8b60dc4ce7a)
+- AWS Certified Cloud Practioner (In progress)
+- Cisco Certified Network Associate (In progress)
+
 ---
 
 ### 📈 GitHub Stats
@@ -80,6 +88,7 @@ A stealth personal project in progress — stay tuned 👀
   <small>Number of times stalked:</small><br/>
   <img src="https://komarev.com/ghpvc/?username=alvinkoh256&style=flat-square&color=blue" alt="GitHub profile views"/>
 </p>
+
 
 ---
 
