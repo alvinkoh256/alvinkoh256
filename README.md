@@ -19,7 +19,7 @@ I'm a second-year Information Systems student at SMU, passionate about cybersecu
 
 ### 💼 Projects
 
-#### 🥫 [FoodBridge](https://github.com/alvinkoh256/FoodBridge)
+#### 🥫 FoodBridge
 *Combatting food insecurity with microservices*
 
 FoodBridge is a distributed platform that connects donors, volunteers, and food banks to coordinate real-time food donation efforts across Singapore.
@@ -31,10 +31,10 @@ FoodBridge is a distributed platform that connects donors, volunteers, and food 
 - 🌐 Set up the Kong API Gateway for unified routing across microservices.
 
 **Tech Stack:** Flask · gRPC · RabbitMQ · Redis · Docker · Kong API Gateway · Google Maps API
-
+**Link to repo:** https://github.com/alvinkoh256/FoodBridge
 ---
 
-#### 🏃 MapPalette  
+#### 🏃 MapPalette
 *Make running less boring*
 
 MapPalette is a social platform where users create, draw, and share artistic running routes — turning workouts into creative expression.
@@ -47,6 +47,7 @@ MapPalette is a social platform where users create, draw, and share artistic run
 - 👥 Developed frontend for adding/removing friends with real-time UI updates
 
 **Tech Stack:** Vue.js · JavaScript · HTML · CSS · Google Maps API
+**Link to repo:** https://github.com/alvinkoh256/MapPalette
 
 ---
 
