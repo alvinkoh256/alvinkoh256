@@ -49,6 +49,7 @@ MapPalette is a social platform where users create, draw, and share artistic run
 - 👥 Developed frontend for adding/removing friends with real-time UI updates
 
 **Tech Stack:** Vue.js · JavaScript · HTML · CSS · Google Maps API
+<br>
 **Link to repo:** https://github.com/alvinkoh256/MapPalette
 
 ---
