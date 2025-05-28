@@ -7,18 +7,19 @@
 
 ---
 
-<div align="center" style="font-size: 1.5em; font-weight: bold; margin-bottom: 0.5em;"> 👨‍💻 About Me</div>
+### 👨‍💻 About Me
 
 I'm a second-year Information Systems student at SMU, passionate about cybersecurity, cloud tools, and building meaningful digital products.
 
 - 🛠️ I love building new applications.
-- 🌩️ Currently pursuing AWS Cloud Practitioner & Network+, and building a new application called ~~████████~~ 🤫...
+- 🌩️ Currently pursuing AWS Cloud Practitioner & Network+, and building a new application called ~~████████~~ 🤫
 - 🎯 Always exploring ways to solve real problems with technology.
+
 ---
 
-<div align="center" style="font-size: 1.5em; font-weight: bold; margin-bottom: 0.5em;"> 💼 Projects</div>
+### 💼 Projects
 
-#### 🥫 ESD FoodBridge
+#### 🥫 ESD FoodBridge  
 *Combatting food insecurity with microservices*
 
 FoodBridge is a distributed platform that connects donors, volunteers, and food banks to coordinate real-time food donation efforts across Singapore.
@@ -29,61 +30,59 @@ FoodBridge is a distributed platform that connects donors, volunteers, and food 
 - 📦 Configured RabbitMQ queues for asynchronous volunteer notifications and delivery updates.
 - 🌐 Set up the Kong API Gateway for unified routing across microservices.
 
-**Tech Stack:** Flask · gRPC · RabbitMQ · Redis · Docker · Kong API Gateway · Google Maps API  
-**Architecture:** 7 atomic services + 4 composite services connected via REST, gRPC, and AMQP
+**Tech Stack:** Flask · gRPC · RabbitMQ · Redis · Docker · Kong API Gateway · Google Maps API
 
+---
 
-#### 🏃 WAD2 MapPalette
+#### 🏃 WAD2 MapPalette  
 *Make running less boring*
 
-MapPalette is a social platform where users create, draw, and share artistic running routes. It adds a social twist to staying active by allowing community engagement and gamification.
+MapPalette is a social platform where users create, draw, and share artistic running routes — turning workouts into creative expression.
 
 **My Contributions**
-- 🔎 Developed frontend logic to sort routes by:
+- 🔎 Built frontend sorting for routes (fetched via JSON) by:
   - Total distance (for beginner runners)
-  - Recency (for fresh and creative routes)
-- 📌 Designed modals for route cards with like, comment, and share features — core components of a social platform.
-- 👥 Built the friend system frontend: add/remove users with real-time UI updates based on user relationships.
+  - Recency (for discovering fresh and creative paths)
+- 📌 Designed modal cards for each route with like, comment, and share buttons
+- 👥 Developed frontend for adding/removing friends with real-time UI updates
 
-**Tech Stack:** Vue.js · JavaScript · HTML/CSS · Google Maps API
+**Tech Stack:** Vue.js · JavaScript · HTML · CSS · Google Maps API
 
+---
 
-#### 💰 [Redacted Project]
+#### 💰 [Redacted Project]  
 A stealth personal project in progress — stay tuned 👀
 
 ---
 
-<div align="center">
-  <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 0.5em;">🧰 Tech Stack</div>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JS"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask"/></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/></td>
+### 🧰 Tech Stack
 
-  </table>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
+</p>
 
 ---
 
-<!-- Links & GitHub Stats -->
-<div align="center">
-  <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 0.5em;">📈 Some Stats</div>
-  <img src="https://github-readme-stats.vercel.app/api?username=alvinkoh256&show_icons=true&theme=github_dark" alt="Alvin's GitHub Stats"/>
-  </br>
-  <p><small>Number of times stalked:</small></p> <img src="https://komarev.com/ghpvc/?username=alvinkoh256&style=flat-square&color=blue" alt="GitHub profile views"/>
-  <br/><br/>
-</div>
+### 📈 GitHub Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvinkoh256&show_icons=true&theme=github_dark" alt="Alvin's GitHub Stats"/><br/>
+  <small>Number of times stalked:</small><br/>
+  <img src="https://komarev.com/ghpvc/?username=alvinkoh256&style=flat-square&color=blue" alt="GitHub profile views"/>
+</p>
 
-<!-- Footer -->
-<div align="center">
-  <sub>Made by Alvin Koh - May 2025</sub>
-</div>
+---
+
+<p align="center">
+  <sub>Made by Alvin Koh — May 2025</sub>
+</p>
