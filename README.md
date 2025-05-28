@@ -32,6 +32,7 @@ FoodBridge is a distributed platform that connects donors, volunteers, and food 
 
 **Tech Stack:** Flask · gRPC · RabbitMQ · Redis · Docker · Kong API Gateway · Google Maps API
 **Link to repo:** https://github.com/alvinkoh256/FoodBridge
+
 ---
 
 #### 🏃 MapPalette
