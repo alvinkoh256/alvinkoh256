@@ -95,10 +95,5 @@ A stealth personal project in progress — stay tuned 👀
   <small>Number of times stalked:</small><br/>
   <img src="https://komarev.com/ghpvc/?username=alvinkoh256&style=flat-square&color=blue" alt="GitHub profile views"/>
 </p>
-</details>
-
 ---
-
-<p align="center">
-  <sub>Made by Alvin Koh — May 2025</sub>
-</p>
+</details>
