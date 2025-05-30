@@ -6,7 +6,8 @@
 </p>
 
 ---
-
+<details>
+<summary>Click for more!</summary>
 ### 👨‍💻 About Me
 
 I'm a second-year Information Systems student at SMU, passionate about cybersecurity, cloud tools, and building meaningful digital products.
@@ -93,7 +94,7 @@ A stealth personal project in progress — stay tuned 👀
   <small>Number of times stalked:</small><br/>
   <img src="https://komarev.com/ghpvc/?username=alvinkoh256&style=flat-square&color=blue" alt="GitHub profile views"/>
 </p>
-
+</details>
 
 ---
 
