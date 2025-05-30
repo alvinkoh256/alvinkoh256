@@ -8,6 +8,7 @@
 ---
 <details>
 <summary>Click for more!</summary>
+  
 ### 👨‍💻 About Me
 
 I'm a second-year Information Systems student at SMU, passionate about cybersecurity, cloud tools, and building meaningful digital products.
