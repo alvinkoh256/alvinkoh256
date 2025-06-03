@@ -79,7 +79,7 @@ MapPalette is a social platform where users create, draw, and share artistic run
 ### 📜 Certifications
 - [Google Analytics Certification](https://coursera.org/share/33446f3b1187eecbcd93d8b60dc4ce7a)
 - AWS Certified Cloud Practioner (In progress)
-- Cisco Certified Network Associate (In progress)
+- Red Hat Certified System Administrator (In progress)
 
 ---
 
