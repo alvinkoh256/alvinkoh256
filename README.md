@@ -14,7 +14,7 @@
 I'm a second-year Information Systems student at SMU, passionate about cybersecurity, cloud tools, and building meaningful digital products.
 
 - 🛠️ I love building new applications.
-- 🌩️ Currently pursuing AWS Cloud Practitioner & CCNA, and building a new application called ~~████████~~ 🤫
+- 🌩️ Currently pursuing AWS Cloud Practitioner & RHCSA
 - 🎯 Always exploring ways to solve real problems with technology.
 
 ---
@@ -53,11 +53,6 @@ MapPalette is a social platform where users create, draw, and share artistic run
 **Tech Stack:** Vue.js · JavaScript · HTML · CSS · Google Maps API
 <br>
 **Link to repo:** https://github.com/alvinkoh256/MapPalette
-
----
-
-#### 💰 [Redacted Project]  
-A stealth personal project in progress — stay tuned 👀
 
 ---
 
