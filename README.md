@@ -41,7 +41,7 @@ FoodBridge is a distributed platform that connects donors, volunteers, and food 
 #### 🏃 MapPalette
 *Make running less boring*
 
-MapPalette is a social platform where users create, draw, and share artistic running routes — turning workouts into creative expression.
+MapPalette is a social platform where users create, draw, and share artistic running routes, turning workouts into creative expression.
 
 **My Contributions**
 - 🔎 Built frontend sorting for routes (fetched via JSON) by:
